@@ -86,4 +86,4 @@ Kısa özet → [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 
 ## İletişim
 
-**Yavuz** · [GitHub @yavuzscnplt](https://github.com/yavuzscnplt) · yavuz7500@gmail.com
+**Yavuz Selim Canpolat** · [LinkedIn](https://www.linkedin.com/in/yavuz-selim-canpolat-/) · [GitHub @yavuzscnplt](https://github.com/yavuzscnplt) · yavuz7500@gmail.com
